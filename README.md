@@ -19,4 +19,12 @@ Machine learning and ontology in eCoaching for personalized activity level monit
 https://www.nature.com/articles/s41598-022-24118-4
 
 # Paper - 3
+LSTM Step Prediction and Ontology-Based Recommendation Generation in Activity eCoaching
+https://ieeexplore.ieee.org/abstract/document/9941356 [WiMob]
+
+# Paper - 4
+Prediction Modeling in Activity eCoaching for Tailored Recommendation Generation: A Conceptualization
+https://ieeexplore.ieee.org/abstract/document/9856556 [MeMeA]
+
+# Paper - 5
 On MOX2-5 data - Paper in Review
