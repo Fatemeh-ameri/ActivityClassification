@@ -1,5 +1,5 @@
 # ActivityClassification
-This codebase deals with activity classifications
+This codebase deals with activity classifications. Cite papers accordingly.
 
 # PMData
 https://datasets.simula.no/pmdata/
