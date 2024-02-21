@@ -8,7 +8,7 @@ https://datasets.simula.no/pmdata/
 https://zenodo.org/record/4446174
 
 # MOX2-5
-Coming soon........
+https://github.com/ayan1c2/ActivityClassification/tree/main/MOX2-5_Analysis
 
 # Paper - 1
 An automatic and personalized recommendation modeling in activity eCoaching with deep learning and ontology
