@@ -31,5 +31,5 @@ AI and semantic ontology for personalized activity eCoaching in healthy lifestyl
 https://link.springer.com/article/10.1186/s12911-023-02364-4 [BMC Medical Informatics and Decision Making]
 
 # Paper - 6
-Semantic Representation and Comparative Analysis of Physical Activity Sensor Observations using MOX2-5 Sensor in Real and Synthetic Datasets: A Proof-of-Concept-Study (Scientific Reports - In Press)
-https://www.researchsquare.com/article/rs-3525600/v1 (Pre-print)
+Semantic Representation and Comparative Analysis of Physical Activity Sensor Observations using MOX2-5 Sensor in Real and Synthetic Datasets: A Proof-of-Concept-Study
+https://www.nature.com/articles/s41598-024-55183-6 [Scientific Reports, Nature]
